@@ -30,6 +30,6 @@ See this tutorial vedio...
 ## Authors
 
 - [@ArpitMourya](https://github.com/ArpitMourya)
-- [@Yashdeep kumrawat](https://github.com/YashdeepKumrawat)
+- [@Yashdeep kumrawat](https://github.com/YashdeepKum)
 
 
